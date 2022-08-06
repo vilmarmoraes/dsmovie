@@ -1,4 +1,4 @@
-# DSMove
+# DSMovie
 
 Sistema de avaliação de filmes feito com ReactJS e Spring Boot durante o treinamento "Semana Spring React" do DevSuperior
 
